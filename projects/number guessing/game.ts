@@ -26,7 +26,8 @@ if(game.GuessNum === easy  ){
 }else if(game.GuessNum === normal){
     console.log("congratulation, you have won 7 crores🤣🤣🤣.")
 }else if(game.GuessNum === hard){
-    console.log("congratulation, you have won 7 crores🤣🤣🤣.")
+    console.log("congratulation , you have won 7 crores🤣🤣🤣.")
 }else{
     console.log("sorry, you guessed wrong number please try again 😞😭😭.")
 }
+
